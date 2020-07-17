@@ -1,0 +1,122 @@
+.jumbotron.jumbotron-fluid{
+    background: none;
+    text-align: center;
+}
+
+.section-light{
+    background-color:azure;
+    padding: 2em;
+}
+.section-dark{
+    background-color: lightgray;
+    padding: 2em;
+}
+
+.coolstuffwraper{
+    margin-top: 20px;
+}
+
+button.coolstuffbtn{
+    background-color: red;
+    color: white;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+}
+h5.modal-title{
+    margin: auto;
+    display: block;
+    text-align: center;
+}
+
+.slogan{
+    color: red;
+    background-color: none;
+    padding-top: 50px;
+    font-size: 30px;
+    padding-left: 0px;
+}
+
+.modalformwrapper{
+    padding: 2rem;
+}
+
+.img-center{
+    display: block;
+    margin: auto;
+}
+.btncenter{
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    background-color: red;
+    color: white;
+    width: 90%;
+}
+.imgpara{
+    display: block;
+    margin: auto;
+    height: 100px;
+    width:1000px;
+}
+.footerimage{
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    width: 100%
+    
+}
+.h3header{
+    color: white;
+    text-align: center;
+}
+
+.fa-facebook-square{
+    color: steelblue;
+    padding-top: 50px;
+    padding-left: 150px;
+}
+.fa-instagram{
+    color: indianred;
+    padding-top: 50px;
+    padding-left: 25px;
+}
+
+.fa-github{
+    color: lightgrey;
+    padding-top: 50px;
+    padding-left: 25px;
+}
+.modalpic{
+    display: block;
+    margin-top: 40px;
+}
+.r1{
+    padding-top: 20px;
+}
+
+.h3header{
+    color: white;
+    text-align: center;
+}
+
+.fa-facebook-square{
+    color: steelblue;
+    padding-top: 50px;
+    padding-left: 150px;
+}
+.fa-instagram{
+    color: indianred;
+    padding-top: 50px;
+    padding-left: 25px;
+}
+
+.fa-github{
+    color: lightgrey;
+    padding-top: 50px;
+    padding-left: 25px;
+}
+.lead{
+    text-align: center;
+}
